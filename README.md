@@ -7,3 +7,7 @@ Because of Yakui The Maid being displayed as YAKUITHEMAID on bandcamp (and there
 1. Download/copy the main.js file and place it somewhere.
 2. Open it and place the root path to albums into "dir" const.
 3. `node path/to/main.js`.
+
+# Credits
+
+- Big thanks to **AHOHNMYC** for FLAC Metadata Editor script: https://github.com/AHOHNMYC/FLACMetadataEditor.
