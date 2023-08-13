@@ -1,4 +1,4 @@
-// !!! Path to the root dir with albums. Do not include "/" in the end !!!
+// !!! Path to the root dir with albums. Do not include "/" at the end !!!
 const dir = "insert your path here";
 
 //---------------------------------------------------------------------------------------------------------//
